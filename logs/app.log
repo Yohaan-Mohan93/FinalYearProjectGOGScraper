@@ -1,0 +1,11 @@
+2020-05-30 22:11:57,314 [JavaFX-Launcher] INFO fyp.Main - Loading Application
+2020-05-30 22:11:58,176 [JavaFX-Launcher] INFO fyp.Main - Non-Foil Card Kingdom File: CardKingdom\NonFoil\Prices\CKPrices25052020.csv loaded.
+2020-05-30 22:11:58,351 [JavaFX-Launcher] INFO fyp.Main - Foil Card Kingdom File: CardKingdom/Foil/Prices/CKFoilPrices30052020.csv loaded.
+2020-05-30 22:11:58,691 [JavaFX-Launcher] INFO fyp.Main - Non-Foil Star City Games File: StarCityGames\NonFoil\Prices\SCGPrices24042020.csv loaded.
+2020-05-30 22:11:58,879 [JavaFX-Launcher] INFO fyp.Main - Foil Star City Games File: StarCityGames\Foil\Prices\SCGFoilPrices27052020.csv loaded.
+2020-05-30 22:11:58,960 [JavaFX-Launcher] INFO fyp.Main - Card Kingdom Buylist File: CardKingdom\Buylist\Buys\CKBuys03052020.json loaded.
+2020-05-30 22:11:59,590 [JavaFX-Launcher] INFO fyp.Main - All Non-Foil Cards File: AllCards/AllCard.json loaded.
+2020-05-30 22:11:59,765 [JavaFX-Launcher] INFO fyp.Main - All Foil Cards File: AllCards/AllFoilCards.json loaded.
+2020-05-30 22:11:59,812 [JavaFX-Launcher] INFO fyp.Main - Created Card Search and Deck Builder Results table
+2020-05-30 22:11:59,816 [JavaFX Application Thread] INFO fyp.Main - Application Starting
+2020-05-30 22:14:23,813 [JavaFX Application Thread] INFO fyp.Main - Closing the application

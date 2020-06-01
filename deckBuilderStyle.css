@@ -1,0 +1,48 @@
+.underlined {
+    -rtfx-background-color: #f0f0f0;
+    -rtfx-underline-color: red;
+    -rtfx-underline-dash-array: 2 2;
+    -rtfx-underline-width: 1;
+    -rtfx-underline-cap: butt;
+}
+
+.paragraph-box: {
+    -fx-background-color: rgba(0, 0, 0, 1);
+}
+
+.virtualized-scroll-pane {
+    -fx-background-color: linear-gradient(to bottom, derive(-fx-text-box-border, -10%), -fx-text-box-border),
+        linear-gradient(from 0px 0px to 0px 5px, derive(-fx-control-inner-background, -9%), -fx-control-inner-background);
+    -fx-background-insets: 0, 1;
+    -fx-background-radius: 3, 2;
+}
+
+.virtualized-scroll-pane:focused {
+    -fx-background-color:
+        -fx-focus-color,
+        -fx-control-inner-background,
+        -fx-faint-focus-color,
+        linear-gradient(from 0px 0px to 0px 5px, derive(-fx-control-inner-background, -9%), -fx-control-inner-background);
+    -fx-background-insets: -0.2, 1, -1.4, 3;
+    -fx-background-radius: 3, 2, 4, 0;
+}
+
+.virtualized-scroll-pane .styled-text-area {
+    -fx-background-insets: 0px;
+}
+
+.virtualized-scroll-pane .scroll-bar:horizontal {
+    -fx-background-radius: 0 0 2 2;
+
+    -fx-padding: 0 0.08333325em 0.08333325em 0.08333325em;
+    -fx-border-insets: 0 0.08333325em 0.08333325em 0.08333325em;
+    -fx-background-insets: 0 0.08333325em 0.08333325em 0.08333325em;
+}
+
+.virtualized-scroll-pane .scroll-bar:vertical {
+    -fx-background-radius: 0 2 2 0;
+
+    -fx-padding: 0.08333325em 0.08333325em 0.08333325em 0;
+    -fx-border-insets: 0.08333325em 0.08333325em 0.08333325em 0;
+    -fx-background-insets: 0.08333325em 0.08333325em 0.08333325em 0;
+}
