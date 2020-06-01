@@ -1,0 +1,99 @@
+name, set, pagePlace, pageNumber 
+"Rumors of My Death...", Unstable ,1, 1
+A Good Thing (Not Tournament Legal), Archenemy ,2, 1
+Abandon Hope, Mystery Booster ,3, 1
+Abandon Reason, Archenemy - Nicol Bolas ,4, 1
+Abandoned Outpost, Tempest ,5, 1
+Abandoned Sarcophagus, Eldritch Moon ,6, 1
+Abandoned Sarcophagus, Odyssey ,7, 1
+Abandoned Sarcophagus (Prerelease Foil), Commander 2020 ,8, 1
+Abattoir Ghoul, Hour of Devastation ,9, 1
+Abattoir Ghoul, Promotional ,10, 1
+Abbey Gargoyles, Duel Decks: Blessed Vs. Cursed ,11, 1
+Abbey Gargoyles, Innistrad ,12, 1
+Abbey Griffin, 5th Edition ,13, 1
+Abbey Matron (Hood), Homelands ,14, 1
+Abbey Matron (No hood), Innistrad ,15, 1
+Abbot of Keral Keep, Homelands ,16, 1
+Abbot of Keral Keep (Prerelease Foil), Homelands ,17, 1
+Abduction, Magic Origins ,18, 1
+Abduction, Weatherlight ,1, 2
+Aberrant Researcher, Shadows Over Innistrad ,2, 2
+Abeyance, Weatherlight ,3, 2
+Abhorrent Overlord, Theros ,4, 2
+Abhorrent Overlord (Prerelease Foil), Promotional ,5, 2
+"Abian, Luvion Usurper (Not Tournament Legal)""""", Mystery Booster ,6, 2
+Abjure, Weatherlight ,7, 2
+Abnormal Endurance, Core Set 2019 ,8, 2
+Abolish, Duel Decks: Elspeth Vs. Tezzeret ,9, 2
+Abolish, Prophecy ,10, 2
+Abominable Treefolk, Modern Horizons ,11, 2
+Abomination, 4th Edition ,12, 2
+Abomination, Legends ,13, 2
+Abomination of Gudul, Khans of Tarkir ,14, 2
+Aboroth, Weatherlight ,15, 2
+Aboshan's Desire, Odyssey ,16, 2
+"Aboshan, Cephalid Emperor""""", Odyssey ,17, 2
+About Face, Urza's Legacy ,18, 2
+Abrade, Hour of Devastation ,19, 2
+Abrade (Game Day Extended Art), Promotional ,20, 2
+Abrupt Decay, Guilds of Ravnica: Guild Kits ,1, 3
+Abrupt Decay, Modern Masters 2017 ,2, 3
+Abrupt Decay, Return to Ravnica ,3, 3
+Abrupt Decay (WMCQ Foil), Promotional ,4, 3
+Absolute Grace, Urza's Saga ,5, 3
+Absolute Law, Urza's Saga ,6, 3
+Absolver Thrull, Guildpact ,7, 3
+Absorb, Invasion ,8, 3
+Absorb, Ravnica Allegiance ,9, 3
+Absorb (Prerelease Foil), Promotional ,10, 3
+Absorb (Promo Pack), Promo Pack ,11, 3
+Absorb Vis, Conflux ,12, 3
+Absorb Vis, Conspiracy - Take the Crown ,13, 3
+Absorb Vis, Duel Decks: Sorin Vs. Tibalt ,14, 3
+Absorb Vis, Modern Masters ,15, 3
+Absorb Vis, Mystery Booster ,16, 3
+Abstract Iguanart, Unsanctioned ,17, 3
+Abstruse Interference, Oath of the Gatewatch ,18, 3
+Abu Ja'far, Arabian Nights ,19, 3
+Abu Ja'far, Chronicles ,20, 3
+Abuna Acolyte, Scars of Mirrodin ,1, 4
+Abuna's Chant, Fifth Dawn ,2, 4
+Abundance, 10th Edition ,3, 4
+Abundance, Commander 2017 ,4, 4
+Abundance, Duel Decks: Nissa Vs. Ob Nixilis ,5, 4
+Abundance, Urza's Saga ,6, 4
+Abundant Growth, Avacyn Restored ,7, 4
+Abundant Growth, Eternal Masters ,8, 4
+Abundant Growth, Mystery Booster ,9, 4
+Abundant Maw, Eldritch Moon ,10, 4
+Abyssal Gatekeeper, Duel Decks: Divine Vs. Demonic ,11, 4
+Abyssal Gatekeeper, Weatherlight ,12, 4
+Abyssal Gatekeeper (Divine vs Demonic), Duel Decks: Anthology ,13, 4
+Abyssal Horror, 7th Edition ,14, 4
+Abyssal Horror, Starter 1999 ,15, 4
+Abyssal Horror, Urza's Saga ,16, 4
+Abyssal Hunter, 6th Edition ,17, 4
+Abyssal Hunter, Mirage ,18, 4
+Abyssal Nightstalker, Portal II ,19, 4
+Abyssal Nocturnus, Guildpact ,20, 4
+Abyssal Persecutor, Commander 2014 ,1, 5
+Abyssal Persecutor, Iconic Masters ,2, 5
+Abyssal Persecutor, Worldwake ,3, 5
+Abyssal Specter, 5th Edition ,4, 5
+Abyssal Specter, 6th Edition ,5, 5
+Abyssal Specter, 7th Edition ,6, 5
+Abyssal Specter, 8th Edition ,7, 5
+Abyssal Specter, Battle Royale ,8, 5
+Abyssal Specter, Deckmaster ,9, 5
+Abyssal Specter, Duel Decks: Divine Vs. Demonic ,10, 5
+Abyssal Specter, Duels of the Planeswalkers ,11, 5
+Abyssal Specter, Ice Age ,12, 5
+Abyssal Specter, Modern Masters 2017 ,13, 5
+Abyssal Specter (Divine vs Demonic), Duel Decks: Anthology ,14, 5
+Abzan Advantage, Fate Reforged ,15, 5
+Abzan Ascendancy, Commander 2020 ,16, 5
+Abzan Ascendancy, Khans of Tarkir ,17, 5
+Abzan Ascendancy (Prerelease Foil), Promotional ,18, 5
+Abzan Banner, Khans of Tarkir ,19, 5
+Abzan Battle Priest, Iconic Masters ,20, 5
